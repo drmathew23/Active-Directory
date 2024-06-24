@@ -1,4 +1,4 @@
-# Active Directory Lab Setup in Azure
+# Active Directory Home Lab Setup in Azure
 
 ## Overview
 This lab demonstrates the setup and configuration of an Active Directory (AD) environment in Azure. The lab includes the creation of a Windows Server 2019 VM as a Domain Controller, a Windows 10 VM as a client machine, the creation of users using PowerShell, and the connection of the Windows 10 VM to the AD domain.
